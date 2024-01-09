@@ -1,0 +1,61 @@
+#Container {
+    display: flex;
+}
+
+#Aside {
+    width: 10vw;
+    height: 52vh;
+    background: rgb(112, 191, 4);
+}
+
+#Aside aside {
+    margin: 10px;
+}
+
+#Header {
+    width: 50vw;
+    height: 20vh;
+    text-align: center;
+    color: black;
+    background: #2596be;
+}
+
+#nav {
+    background: rgb(66, 8, 191);
+    text-align: left;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+#Main {
+    width: 40vw;
+    height: 52vh;
+    background: rgb(215, 163, 4);
+}
+
+#main {
+    margin: 10px;
+}
+
+.Section {
+    margin: 20px;
+    background: #ff9900;
+    color: rgb(255, 255, 255);
+    width: 35vw;
+    height: 20vh;
+}
+
+p {
+    margin: 10px;
+    padding: 10px;
+}
+
+.Section h2 {
+    font-size: 10px;
+    text-align: center;
+    background: #2596be;
+    padding: 10px;
+    width: 30vw;
+    margin-left: 25px;
+}
